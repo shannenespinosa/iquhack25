@@ -1,5 +1,5 @@
 # Extinquish: Parallelized QAOA to optimize resource-bound firefighting
-Co-authors: Akanksha Chablani ([GH](https://github.com/AkuVolts)),  Aarav Mande ([LI](https://www.linkedin.com/in/aarav-mande-2848b311b/), GH), Corey Ferrier ([LI](https://www.linkedin.com/in/corey-ferrier-131794107/), [GH](https://github.com/coreyfer)), Shannen Espinosa ([LI](https://www.linkedin.com/in/shannenespinosa/), [GH](https://github.com/shannenespinosa))
+Co-authors: Akanksha Chablani ([GH](https://github.com/AkuVolts)),  Aarav Mande ([LI](https://www.linkedin.com/in/aarav-mande-2848b311b/), [GH](https://github.com/AaravMande)), Corey Ferrier ([LI](https://www.linkedin.com/in/corey-ferrier-131794107/), [GH](https://github.com/coreyfer)), Shannen Espinosa ([LI](https://www.linkedin.com/in/shannenespinosa/), [GH](https://github.com/shannenespinosa))
 
 [iQuHACK 2025 IonQ Challenge](https://github.com/iQuHACK/2025-IonQ), 2 February 2025
 
